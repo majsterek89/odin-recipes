@@ -1,3 +1,4 @@
 # odin-recipes
 Projekt Prostej Strony z przepisami
-Porjekt pozwala zapoznać się z tagiem HTML-><a> 
+Projekt pozwala zapoznać się z tagiem HTML-><a></a>, <ul></ul>, <ol></ol>
+
